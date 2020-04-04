@@ -1,6 +1,6 @@
 # flutternotortalamahesapla
 
-Calculate GPA dynamically.
+Calculate GPA dynamically. 
 
 ## Getting Started
 
