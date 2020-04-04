@@ -1,6 +1,6 @@
 # flutternotortalamahesapla
 
-Dinamik olarak ortalama hesaplar.
+Calculate GPA dynamically.
 
 ## Getting Started
 
